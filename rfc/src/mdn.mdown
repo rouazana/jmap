@@ -3,7 +3,7 @@
     abbrev = "JMAP MDN handling"
     category = "std"
     docName = "draft-ietf-jmap-mdn-00"
-    ipr= "trust200902"
+    ipr = "trust200902"
     area = "Applications"
     workgroup = "JMAP"
     keyword = ["JMAP", "JSON", "email", "MDN"]
@@ -11,10 +11,10 @@
     date = 2018-07-25T00:00:00Z
 
     [[author]]
-    initials="R.O."
-    surname="Ouazana"
-    fullname="Raphaël Ouazana"
-    role="editor"
+    initials ="R.O."
+    surname ="Ouazana"
+    fullname ="Raphaël Ouazana"
+    role ="editor"
     organization = "Linagora"
         [author.address]
         email = "rouazana@linagora.com"
